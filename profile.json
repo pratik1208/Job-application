@@ -1,0 +1,141 @@
+{
+  "_comment": "Structured to mirror a Workday application flow. Fields marked FILL_ME need your input. The agent reads this file to auto-fill applications, and appends new answers here whenever a form asks something not yet covered (see custom_answers).",
+
+  "resumes": {
+    "_comment": "Maps each of your 4 resumes. The agent picks one per job based on role (ai vs ml/ds) and location (bengaluru vs other).",
+    "ai_bengaluru": "pratik_marudwar_.pdf",
+    "ai_other": "pratik_marudwar.pdf",
+    "mlds_bengaluru": "Pratik_.pdf",
+    "mlds_other": "Pratik.pdf"
+  },
+
+  "personal_information": {
+    "legal_first_name": "Pratik",
+    "legal_middle_name": "Mahesh",
+    "legal_last_name": "Marudwar",
+    "preferred_name": "Pratik",
+    "email": "pratik.marudwarmit@gmail.com",
+    "phone_country_code": "+91",
+    "phone_number": "8605260762",
+    "phone_device_type": "Mobile",
+    "date_of_birth": "1998-08-14"
+  },
+
+  "addresses": {
+    "_comment": "Location-dependent, like the resume. Use 'bengaluru' for Bengaluru/Bangalore jobs, 'other' for everything else.",
+    "bengaluru": {
+      "country": "India",
+      "address_line_1": "Orchid PG, Feb 30 Layout, 4th Cross Rd",
+      "address_line_2": "Green Glen Layout, Bellandur",
+      "city": "Bengaluru",
+      "state_region": "Karnataka",
+      "postal_code": "560103"
+    },
+    "other": {
+      "country": "India",
+      "address_line_1": "Shivprem Niwas, Himayatnagar",
+      "address_line_2": "",
+      "city": "Nanded",
+      "state_region": "Maharashtra",
+      "postal_code": "431802"
+    }
+  },
+
+  "websites": {
+    "linkedin": "https://www.linkedin.com/in/pratikmarudwar/",
+    "github": "https://github.com/pratik1208/",
+    "portfolio": "FILL_ME_optional"
+  },
+
+  "how_did_you_hear_about_us": "Company Website",
+
+  "work_authorization": {
+    "authorized_to_work_in_india": true,
+    "requires_visa_sponsorship_india": false,
+    "authorized_to_work_in_us": false,
+    "requires_visa_sponsorship_us": true,
+    "us_security_clearance": false
+  },
+
+  "employment_preferences": {
+    "total_years_experience": "2+",
+    "current_company": "WebMD",
+    "current_title": "Associate Data Scientist",
+    "current_ctc_annual": "16.5 LPA",
+    "expected_ctc_annual": "27 LPA",
+    "notice_period": "60 days",
+    "willing_to_relocate": "Yes",
+    "preferred_locations": ["Bengaluru", "Remote"],
+    "open_to_remote": true,
+    "earliest_start_date": "60 days from offer acceptance"
+  },
+
+  "work_experience": [
+    {
+      "job_title": "Associate Data Scientist",
+      "company": "WebMD",
+      "location": "Remote, India",
+      "start_date": "2024-12",
+      "end_date": "",
+      "currently_work_here": true,
+      "description": "Built Prescriber Lens, a six-agent LangGraph NL2SQL pipeline converting pharma sales queries into validated BigQuery SQL (intent understanding, schema discovery, ChromaDB few-shot retrieval, SQL generation, SQLGlot validation, human approval); reduced manual query effort by 60% with 85%+ accuracy. Built an LLM evaluation and observability layer. Designed campaign ROI measurement pipelines (Propensity Score Matching, ANCOVA) on large-scale HCP prescription data in BigQuery and R."
+    },
+    {
+      "job_title": "Trainee Data Scientist",
+      "company": "Rakuten India",
+      "location": "Bengaluru, India",
+      "start_date": "2024-05",
+      "end_date": "2024-12",
+      "currently_work_here": false,
+      "description": "Fine-tuned Japanese LLMs for short-text transaction classification and shipped production inference APIs adopted by 5 Rakuten business units. Performed domain-adaptive continued pretraining (DAPT) of RoBERTa on merchant/financial corpora, improving merchant name classification accuracy from 88.05% to 91.35%."
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Master of Technology (M.Tech)",
+      "field_of_study": "Computer Science (Specialization: Artificial Intelligence)",
+      "institution": "Indian Institute of Technology, Patna",
+      "location": "Patna, India",
+      "start_year": "2022",
+      "graduation_year": "2024",
+      "gpa": "8.02/10"
+    },
+    {
+      "degree": "Bachelor of Technology (B.Tech)",
+      "field_of_study": "Engineering",
+      "institution": "Maharashtra Institute of Technology, Pune",
+      "location": "Pune, India",
+      "start_year": "2016",
+      "graduation_year": "2020",
+      "gpa": "8.24/10"
+    }
+  ],
+
+  "skills": [
+    "Python", "R", "SQL", "NumPy", "Pandas", "PySpark", "BigQuery", "PostgreSQL",
+    "LangGraph", "LangChain", "CrewAI", "MCP", "Anthropic SDK", "OpenAI SDK",
+    "RAG", "Text-to-SQL (NL2SQL)", "ChromaDB", "pgvector", "Pinecone", "FAISS",
+    "PyTorch", "Hugging Face Transformers", "BERT", "RoBERTa", "LoRA/QLoRA", "DAPT", "SFT", "Quantization",
+    "Linear Regression", "Logistic Regression", "GLM", "Propensity Score Matching", "ANCOVA",
+    "vLLM", "Ray Serve", "FastAPI", "Django", "Docker", "Kubernetes", "AWS", "GitHub Actions", "REST APIs",
+    "RAGAS", "LangSmith", "LLM-as-a-Judge",
+    "OpenCV", "CNNs", "Object Detection (YOLO)", "Vision Transformers (ViT)", "CLIP"
+  ],
+
+  "languages": ["English", "Hindi", "Marathi"],
+
+  "voluntary_disclosures": {
+    "_comment": "Mostly asked by US employers. Set to 'Decline to self-identify' if you prefer not to answer.",
+    "gender": "FILL_ME_optional",
+    "race_ethnicity": "Asian",
+    "veteran_status": "I am not a protected veteran",
+    "disability_status": "Decline to self-identify"
+  },
+
+  "custom_answers": {
+    "_comment": "Reusable answers to free-text application questions. When a form asks something new, the agent asks you and saves the answer here so it is reused next time.",
+    "why_do_you_want_to_work_here": "FILL_ME_optional",
+    "notice_period_details": "FILL_ME_optional"
+  }
+}
