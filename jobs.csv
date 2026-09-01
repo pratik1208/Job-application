@@ -1,26 +1,108 @@
-url,company,title,location,role,resume_planned,resume_used,status,applied_at,notes
-https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/AI-Engineer_R25-9175-1,Rockwell Automation,AI Engineer,Pune India,ai,ai_other,,pending,,
-https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Lead-AI-Engineer--Agentic-AI-_REF078189W,Visa,Lead AI Engineer (Agentic AI),Bengaluru India,ai,ai_bengaluru,,pending,,
-https://takeda.wd502.myworkdayjobs.com/external/job/ind---bengaluru/senior-ai-engineer_r0175794,Takeda,Senior AI Engineer,Bengaluru India,ai,ai_bengaluru,,pending,,
-https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-1st-floor-Nyati-tech-park-Pune/AI-Engineer-4A_JR10017028-2,Genpact,AI Engineer 4A,Pune India,ai,ai_other,,pending,,
-https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Bengaluru-Karntaka-India/Agentic-AI-Engineer_3164655-1,HP,Agentic AI Engineer,Bengaluru India,ai,ai_bengaluru,,pending,,
-https://ciena.wd5.myworkdayjobs.com/careers/job/remote--india--gurugram/cloud-platform---ai-engineer_r030459,Ciena,Cloud Platform & AI Engineer,Gurugram India (Remote),ai,ai_other,,pending,,
-https://convatec.wd1.myworkdayjobs.com/convatec/job/india---remote/applied-ai-engineer_jr00020781,Convatec,Applied AI Engineer,India (Remote),ai,ai_other,,pending,,
-https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote--India--Gurugram/Lead---AI-Engineer_R030598,Ciena,Lead - AI Engineer,Gurugram India (Remote),ai,ai_other,,pending,,
-https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/DGS-India---Bengaluru---Bhartiya-City-Block-1/AI-Engineer_R1114817-6,Dentsu,AI Engineer,Bengaluru India,ai,ai_bengaluru,,pending,,
-https://rocket.wd5.myworkdayjobs.com/rocket_careers/job/Pune-India/AI-Engineer--Entry-level-_R2026-6278,Rocket Software,AI Engineer (Entry level),Pune India,ai,ai_other,,pending,,
-https://condenast.wd5.myworkdayjobs.com/CondeCareers/job/MARKSQUARE-Bengaluru-IN/Machine-Learning-Engineer-I_R-22582,Conde Nast,Machine Learning Engineer I,Bengaluru India,ml,mlds_bengaluru,,pending,,
-https://condenast.wd5.myworkdayjobs.com/CondeCareers/job/MARKSQUARE-Bengaluru-IN/Machine-Learning-Engineer-II_R-22598,Conde Nast,Machine Learning Engineer II,Bengaluru India,ml,mlds_bengaluru,,pending,,
-https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/Edge-AI-ML-Engineer_R29046,Bose,Edge AI ML Engineer,Unknown (verify location),ml,mlds_other,,pending,location not in URL - confirm before applying
-https://quantiphi.wd1.myworkdayjobs.com/Careers_at_Quantiphi/job/IN-KA-Bengaluru/Machine-learning-Engineer_JR9442,Quantiphi,Machine Learning Engineer,Bengaluru India,ml,mlds_bengaluru,,pending,,
-https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Machine-Learning-Engineer_R000072860,Chevron,Machine Learning Engineer,Bengaluru India,ml,mlds_bengaluru,,pending,,
-https://veralto.wd1.myworkdayjobs.com/EskoJobs/job/Bangalore-Karnataka-India/Senior-Machine-Learning-Engineer_R10267942-2,Veralto (Esko),Senior Machine Learning Engineer,Bangalore India,ml,mlds_bengaluru,,pending,,
-https://amgen.wd1.myworkdayjobs.com/careers/job/united-states---remote/machine-learning-engineer--ai-studio_r-250796,Amgen,"Machine Learning Engineer, AI Studio",United States (Remote),ml,mlds_other,,pending,US-based - confirm work authorization
-https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/AI-ML-Engineer--Senior_R0246859,Booz Allen Hamilton,"AI/ML Engineer, Senior",United States,ml,mlds_other,,pending,US-based - likely needs clearance/citizenship
-https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Data-Scientist_R51147,Trimble,Data Scientist,Chennai India,ds,mlds_other,,pending,
-https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Data-Scientist_3159088-1,HP,Data Scientist,Bengaluru India,ds,mlds_bengaluru,,pending,
-https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Data-Scientist_R-213834,Amgen,Data Scientist,Hyderabad India,ds,mlds_other,,pending,
-https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_INDIA/job/Senior-ISC-Data-Scientist_R-539210-1,Becton Dickinson,Senior ISC Data Scientist,India (verify city),ds,mlds_other,,pending,confirm city before applying
-https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Data-Science-Engineer-3_R429997,Comcast,Data Science Engineer 3,Chennai India,ds,mlds_other,,pending,
-https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Data-Scientist_REF082236W,Visa,Data Scientist,Bengaluru India,ds,mlds_bengaluru,,pending,
-https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/IND---India---Home-based/data-Scientist_R109801,Elsevier (RELX),Data Scientist,India (Home-based),ds,mlds_other,,pending,
+url,company,title,location,role,resume_planned,resume_used,status,applied_at,notes,applied
+https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/AI-Engineer_R25-9175-1,Rockwell Automation,AI Engineer,Pune India,ai,ai_other,,expired,,posting removed (verified 2026-08-31),No
+https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Lead-AI-Engineer--Agentic-AI-_REF078189W,Visa,Lead AI Engineer (Agentic AI),Bengaluru India,ai,ai_bengaluru,,failed,,posting expired/removed - page does not exist,No
+https://takeda.wd502.myworkdayjobs.com/external/job/ind---bengaluru/senior-ai-engineer_r0175794,Takeda,Senior AI Engineer,Bengaluru India,ai,ai_bengaluru,,needs-account,,requires account creation (email+password) - user must do login step,No
+https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-1st-floor-Nyati-tech-park-Pune/AI-Engineer-4A_JR10017028-2,Genpact,AI Engineer 4A,Pune India,ai,ai_other,,expired,,posting removed (verified 2026-08-31),No
+https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Bengaluru-Karntaka-India/Agentic-AI-Engineer_3164655-1,HP,Agentic AI Engineer,Bengaluru India,ai,ai_bengaluru,,live-needs-account,,LIVE but requires 10+ yrs (poor fit) + account creation,No
+https://ciena.wd5.myworkdayjobs.com/careers/job/remote--india--gurugram/cloud-platform---ai-engineer_r030459,Ciena,Cloud Platform & AI Engineer,Gurugram India (Remote),ai,ai_other,,expired,,posting removed (verified 2026-08-31),No
+https://convatec.wd1.myworkdayjobs.com/convatec/job/india---remote/applied-ai-engineer_jr00020781,Convatec,Applied AI Engineer,India (Remote),ai,ai_other,,expired,,posting removed (verified 2026-08-31),No
+https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote--India--Gurugram/Lead---AI-Engineer_R030598,Ciena,Lead - AI Engineer,Gurugram India (Remote),ai,ai_other,,expired,,posting removed (verified 2026-08-31),No
+https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/DGS-India---Bengaluru---Bhartiya-City-Block-1/AI-Engineer_R1114817-6,Dentsu,AI Engineer,Bengaluru India,ai,ai_bengaluru,,expired,,posting removed (verified 2026-08-31),No
+https://rocket.wd5.myworkdayjobs.com/rocket_careers/job/Pune-India/AI-Engineer--Entry-level-_R2026-6278,Rocket Software,AI Engineer (Entry level),Pune India,ai,ai_other,,expired,,posting removed (verified 2026-08-31),No
+https://condenast.wd5.myworkdayjobs.com/CondeCareers/job/MARKSQUARE-Bengaluru-IN/Machine-Learning-Engineer-I_R-22582,Conde Nast,Machine Learning Engineer I,Bengaluru India,ml,mlds_bengaluru,,unverified,,extension lacks permission for condenast domain - could not read,No
+https://condenast.wd5.myworkdayjobs.com/CondeCareers/job/MARKSQUARE-Bengaluru-IN/Machine-Learning-Engineer-II_R-22598,Conde Nast,Machine Learning Engineer II,Bengaluru India,ml,mlds_bengaluru,,unverified,,extension lacks permission for condenast domain - could not read,No
+https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/Edge-AI-ML-Engineer_R29046,Bose,Edge AI ML Engineer,Unknown (verify location),ml,mlds_other,,pending,location not in URL - confirm before applying,,No
+https://quantiphi.wd1.myworkdayjobs.com/Careers_at_Quantiphi/job/IN-KA-Bengaluru/Machine-learning-Engineer_JR9442,Quantiphi,Machine Learning Engineer,Bengaluru India,ml,mlds_bengaluru,,expired,,posting removed (verified 2026-08-31),No
+https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Machine-Learning-Engineer_R000072860,Chevron,Machine Learning Engineer,Bengaluru India,ml,mlds_bengaluru,,expired,,posting removed (verified 2026-08-31),No
+https://veralto.wd1.myworkdayjobs.com/EskoJobs/job/Bangalore-Karnataka-India/Senior-Machine-Learning-Engineer_R10267942-2,Veralto (Esko),Senior Machine Learning Engineer,Bangalore India,ml,mlds_bengaluru,,live-needs-account,,LIVE (Veralto/TraceGains) but wants 5+ yrs (stretch) + account creation,No
+https://amgen.wd1.myworkdayjobs.com/careers/job/united-states---remote/machine-learning-engineer--ai-studio_r-250796,Amgen,"Machine Learning Engineer, AI Studio",United States (Remote),ml,mlds_other,,pending,US-based - confirm work authorization,,No
+https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/AI-ML-Engineer--Senior_R0246859,Booz Allen Hamilton,"AI/ML Engineer, Senior",United States,ml,mlds_other,,pending,US-based - likely needs clearance/citizenship,,No
+https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Data-Scientist_R51147,Trimble,Data Scientist,Chennai India,ds,mlds_other,,expired,,posting removed (verified 2026-08-31),No
+https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Data-Scientist_3159088-1,HP,Data Scientist,Bengaluru India,ds,mlds_bengaluru,,expired,,posting removed (verified 2026-08-31),No
+https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Data-Scientist_R-213834,Amgen,Data Scientist,Hyderabad India,ds,mlds_other,,expired,,posting removed (verified 2026-08-31),No
+https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_INDIA/job/Senior-ISC-Data-Scientist_R-539210-1,Becton Dickinson,Senior ISC Data Scientist,India (verify city),ds,mlds_other,,expired,confirm city before applying,posting removed (verified 2026-08-31),No
+https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Data-Science-Engineer-3_R429997,Comcast,Data Science Engineer 3,Chennai India,ds,mlds_other,,unverified,,extension lacks permission for comcast domain - could not read,No
+https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Data-Scientist_REF082236W,Visa,Data Scientist,Bengaluru India,ds,mlds_bengaluru,,expired,,posting removed (verified 2026-08-31),No
+https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/IND---India---Home-based/data-Scientist_R109801,Elsevier (RELX),Data Scientist,India (Home-based),ds,mlds_other,,expired,,posting removed (verified 2026-08-31),No
+https://www.linkedin.com/jobs/view/4446631165/,Evam Labs,Senior AI Scientist,Bengaluru India,ai,ai_bengaluru,PratikMarudwar_.pdf,applied,2026-08-29,LinkedIn Easy Apply - submitted successfully,Yes
+https://www.linkedin.com/jobs/view/4456563406/,TOCUMULUS,Data Service Layer AI Engineer,Bengaluru India,ai,ai_bengaluru,,skipped,,marginal fit (data-eng/BI) + broken form (numeric-only Location field),No
+https://www.linkedin.com/jobs/view/4457752639/,BTLITC,Anthropic Claude AI Engineer / Consultant,India (Remote),ai,ai_other,_pratik_marudwar.pdf,applied,2026-08-29,LinkedIn Easy Apply - Q:Claude/MCP built=Yes cert=No,Yes
+https://www.linkedin.com/jobs/view/4457756555/,Quantacus,AI Implementation Engineer,Bengaluru India,ai,ai_bengaluru,PratikMarudwar_.pdf,applied,2026-08-29,LinkedIn Easy Apply - Q:SQL yrs=2 willing Bangalore=Yes,Yes
+https://www.linkedin.com/jobs/view/4458365418/,Lean IT Inc.,Machine Learning Engineer,India (Remote),ml,mlds_other,Pratik.pdf,applied,2026-08-29,LinkedIn Easy Apply - uploaded local Pratik.pdf; role wants 4-8y (stretch),Yes
+https://www.linkedin.com/jobs/view/4450457743/,QuantumQuake,AI Prompt Engineer,Bengaluru India,ai,ai_bengaluru,PratikMarudwar_.pdf,applied,2026-08-29,LinkedIn Easy Apply - single-step,Yes
+https://www.linkedin.com/jobs/view/4456856576/,ClearDemand,Machine Learning Engineer II,India (Remote),ml,mlds_other,Pratik.pdf,applied,2026-08-29,LinkedIn Easy Apply - Q:ML=2 BigSQL=2 PySpark=2,Yes
+https://www.linkedin.com/jobs/view/4457791653/,Dimensionless Technologies,Senior Data Scientist,India (Remote),ds,mlds_other,Pratik.pdf,applied,2026-08-29,LinkedIn Easy Apply - Q:bg check=Yes ML yrs=2 start immediately=No(60d notice),Yes
+https://www.linkedin.com/jobs/view/4451757658/,ColigoMed,AI Engineer,Bengaluru India,ai,ai_bengaluru,PratikMarudwar_.pdf,applied,2026-08-29,LinkedIn Easy Apply - healthcare AI (strong fit),Yes
+https://www.linkedin.com/jobs/view/4453415022/,Margn AI,Artificial Intelligence Engineer,India (Remote),ai,ai_other,_pratik_marudwar.pdf,applied,2026-08-29,LinkedIn Easy Apply - agentic AI; Q:Bachelors=Yes,Yes
+https://www.linkedin.com/jobs/view/4456866258/,Navi,AI Scientist 1,Bengaluru India,ai,ai_bengaluru,PratikMarudwar_.pdf,applied,2026-08-29,LinkedIn Easy Apply - fintech GenAI (high match); Q:commute=Yes start immediately=No,Yes
+https://www.linkedin.com/jobs/view/4457694102/,Control One | AI Startup,Computer Vision Engineer,Bengaluru India,ai,ai_bengaluru,PratikMarudwar_.pdf,applied,2026-08-31,LinkedIn Easy Apply (past-week batch) - CV role 0-2yr (great fit),Yes
+https://www.linkedin.com/jobs/view/4458922852/,TECEZE,Generative AI Engineer,Bengaluru India,ai,ai_bengaluru,PratikMarudwar_.pdf,applied,2026-08-31,LinkedIn Easy Apply (past-week) - GenAI/RAG/MCP strong match; 6+yr Q answered No truthfully,Yes
+https://www.linkedin.com/jobs/view/4457987029/,Data Eminence,Machine Learning Engineer,India (Remote),ml,mlds_other,Pratik.pdf,applied,2026-08-31,"LinkedIn Easy Apply (past-week) - remote ML, single-step",Yes
+https://www.linkedin.com/jobs/view/4459853055/,Lifesight,Applied AI Engineer,Bengaluru India,ai,ai_bengaluru,PratikMarudwar_.pdf,applied,2026-08-31,LinkedIn Easy Apply (past-week) - Q:Beng=Yes notice=60 serving=No exp=2 CTC16.5/27,Yes
+https://www.linkedin.com/jobs/view/4456855664/,EdgeVerve,Artificial Intelligence Engineer,Bengaluru India,ai,ai_bengaluru,PratikMarudwar_.pdf,applied,2026-08-31,LinkedIn Easy Apply (past-week) - Q:Python/Docker/PostgreSQL/GenAI exp=2,Yes
+https://www.linkedin.com/jobs/view/4459182575/,Impetus,Machine Learning Engineer,Bengaluru India,ml,mlds_bengaluru,Pratik_.pdf,applied,2026-08-31,LinkedIn Easy Apply (past-week) - Q:ML/GenAI/Python=2,Yes
+https://www.linkedin.com/jobs/view/4459767475/,Jobgether,AI Engineer / AI Automation Specialist,India (Remote),ai,ai_other,_pratik_marudwar.pdf,applied,2026-08-31,LinkedIn Easy Apply (past-week) - Q:current location Bengaluru,Yes
+https://www.linkedin.com/jobs/view/4457744602/,Cloud202,AI Engineer,India (Remote),ai,ai_other,_pratik_marudwar.pdf,applied,2026-08-31,LinkedIn Easy Apply (past-week) - Q:enrolled=No AIexp=2 LLM-prod=Yes,Yes
+https://www.linkedin.com/jobs/view/4459468457/,Talentgigs,AI/ML Developer,India (Remote),ai,ai_other,_pratik_marudwar.pdf,applied,2026-08-31,LinkedIn Easy Apply (past-week) - Q:exp/GenAI/Agentic=2 notice=60 ctc=16.5 IC=Yes F2F=Yes,Yes
+https://www.linkedin.com/jobs/view/4457447339/,Bandhan Technologies,Artificial Intelligence Researcher,Bengaluru India,ai,ai_other,_pratik_marudwar.pdf,applied,2026-08-31,LinkedIn Easy Apply (past-week) - Q:Python/GenAI/ML=2,Yes
+https://www.linkedin.com/jobs/view/4454647026/,Nekko Tech,AI/ML Associate,"Hyderabad, India",ml,mlds_other,,external,,external apply (not Easy Apply) - manual only,No
+https://www.linkedin.com/jobs/view/4459162822/,People Tech Group Careers,Artificial Intelligence Engineer,"Hyderabad, India",ai,ai_other,,external,,external apply (not Easy Apply) - manual only,No
+https://www.linkedin.com/jobs/view/4460194666/,Sony Research India,Senior Research Engineer,"Bengaluru, India (Remote)",ai,ai_bengaluru,,external,,external apply (not Easy Apply) - manual only,No
+https://www.linkedin.com/jobs/view/4456850797/,"C3iHub, IIT Kanpur",AI Engineer (Computer vision),"Kanpur, India",ai,ai_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4458457964/,FMR Enterprises,"Senior Software Engineer, AI Training & Evaluation (Remote, Contract)",India (Remote),ai,ai_other,,external,,external apply (not Easy Apply) - manual only,No
+https://www.linkedin.com/jobs/view/4458501392/,OATI,AI Engineer,"Mohali, India",ai,ai_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4458387295/,Glance,Applied Scientist II - Recommendation Systems,"Bengaluru, India",ai,ai_bengaluru,,external,,external apply (not Easy Apply) - manual only,No
+https://www.linkedin.com/jobs/view/4457461702/,Kuku,AI/ML Engineer,"Mumbai, India",ml,mlds_other,,external,,external apply (not Easy Apply) - manual only,No
+https://www.linkedin.com/jobs/view/4448847735/,Aditi Consulting,AI Data Engineer 2,"Hyderabad, India",ai,ai_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4459168274/,noon,Data Scientist - Growth,"Gurugram, India",ds,mlds_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4458947411/,Applied Data Finance,"Data Scientist, Fraud Risk Mitigation",India (Remote),ds,mlds_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4457206119/,Taggd,Data Scientist,"Chennai, India",ds,mlds_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4458727434/,BDO India,Data Scientist,India,ds,mlds_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4457453341/,Crossing Hurdles,Data Scientist (Remote),India (Remote),ds,mlds_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4458978290/,Chryselys,Data Scientist (Pharma/Life Sciences/Biotech),"Hyderabad, India",ds,mlds_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4448280537/,Sonatype,Senior Data Scientist,"Hyderabad, India",ds,mlds_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4458955215/,Guru Forum,Data Scientist,India,ds,mlds_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4458847631/,Tricog Health,Data Scientist,"Bengaluru, India",ds,mlds_bengaluru,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4459457488/,Talentgigs,Data Engineer - Gen AI & LLM,"Bengaluru, India",ai,ai_bengaluru,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4460363598/,Nouryon,AI Solutions Analyst,"Navi Mumbai, India",ai,ai_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4457452250/,hotsourced,Data & Business Intelligence Engineer,India (Remote),ai,ai_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4459772487/,ThreatXIntel,Lead AI Engineer - Generative & Agentic AI,"Chennai, India",ai,ai_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4457753918/,ThoughtSol Infotech,Generative AI Engineer,"Noida, India",ai,ai_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4458995236/,Bajaj Finserv,AI/ML Engineer - GEO,"Pune, India",ml,mlds_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4456850721/,Tata Consultancy Services,GenAI Engineers,"Bengaluru, India",ai,ai_bengaluru,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4455882112/,Provue,RL Environment Researcher,"Mumbai, India",ai,ai_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4458370505/,Glance,Applied Scientist III - Recommendation Systems,"Bengaluru, India",ai,ai_bengaluru,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4461041599/,Sony Research India,Multimodal AI Consultant,"Bengaluru, India",ai,ai_bengaluru,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4458714525/,LUXASIA,AI Engineer - Agentic AI & Automation,"Delhi, India",ai,ai_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4459464448/,Talentgigs,AI/ML Developer,"Chennai, India",ml,mlds_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4459644901/,AiLogic Neural Network,Data Engineer,"Hyderabad, India",ai,ai_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4458953251/,Kaplan,Senior AI Engineer,"Bengaluru, India",ai,ai_bengaluru,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4458935431/,SymphonyAI Group,AI-QA,India,ai,ai_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4458357648/,Health Catalyst,Data Engineer - Analytics & AWS,"Hyderabad, India",ai,ai_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4456681715/,Quess Corp,Gen AI Engineer,"Hyderabad, India",ai,ai_other,,pending,,"harvested 2026-08-31 (last-week, India, 0-3yr)",No
+https://www.linkedin.com/jobs/view/4457752858/,ERP Logic,AI Bot Developer & Business Analyst,India (Remote),ai,ai_other,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4458870362/,Hirely,ML Engineer - Coding Agent Experience,India (Remote),ml,mlds_other,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4460865913/,Quik Hire Staffing,Machine Learning Researcher,India (Remote),ml,mlds_other,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4461044075/,Hired,Algorithm Engineer,India (Remote),ai,ai_other,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4458965484/,Micron Technology,AI & Automation Engineer,"Hyderabad, India",ai,ai_other,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4461042124/,Hire Feed,Senior Engineer - AI Platforms,India (Remote),ai,ai_other,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4457696447/,PeoplePilot,AI/ML Engineer,"Bengaluru, India",ml,mlds_bengaluru,,external,,external apply (not Easy Apply) - manual only,No
+https://www.linkedin.com/jobs/view/4457650979/,Infosys,GenAI Developer,"Bengaluru, India",ai,ai_bengaluru,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4449363855/,super.money,Data Scientist,"Bengaluru, India",ds,mlds_bengaluru,,external,,external apply (not Easy Apply) - manual only,No
+https://www.linkedin.com/jobs/view/4456216281/,Eloelo,Data Scientist,"Bengaluru, India",ds,mlds_bengaluru,,external,,external apply (not Easy Apply) - manual only,No
+https://www.linkedin.com/jobs/view/4460110443/,Aditya Birla Capital,Data Scientist,"Maharashtra, India",ds,mlds_other,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4460867331/,Hire Feed,Data Scientist,India,ds,mlds_other,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4456167357/,Kotak Mahindra Bank,Data Scientist,"Bengaluru, India",ds,mlds_bengaluru,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4460868060/,Quik Hire Staffing,Data Science Engineer,India (Remote),ds,mlds_other,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4450094875/,GyanSys Inc.,AI Engineer (Junior),"Bengaluru, India",ai,ai_bengaluru,,external,,external apply (not Easy Apply) - manual only,No
+https://www.linkedin.com/jobs/view/4448954700/,Aventra.AI,Junior AI Engineer,"Hyderabad, India",ai,ai_other,,external,,external apply (not Easy Apply) - manual only,No
+https://www.linkedin.com/jobs/view/4461053124/,Hire Feed,Data Scientist,India (Remote),ds,mlds_other,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4452563654/,HCLTech,Generative AI Engineer,India,ai,ai_other,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4452239483/,Intangles,Machine Learning Engineer,"Pune, India",ml,mlds_other,,external,,external apply (not Easy Apply) - manual only,No
+https://www.linkedin.com/jobs/view/4383739897/,DP World,Machine Learning Scientist,"Bengaluru, India",ml,mlds_bengaluru,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4453567491/,MathCo,Data Scientist - II,India,ds,mlds_other,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4452376210/,SalesPanda,Artificial Intelligence Engineer,"New Delhi, India",ai,ai_other,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4455710662/,Rusk Media,Data Scientist,"Delhi, India",ds,mlds_other,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4461038419/,Hire Feed,ML Researcher,India (Remote),ml,mlds_other,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4454702237/,Optimum Solutions,AI Data Engineer cum Data Scientist,"Chennai, India",ds,mlds_other,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
+https://www.linkedin.com/jobs/view/4447911724/,iMerit Technology,ML Engineer - Multimodal AI & Agentic,"Bengaluru, India",ml,mlds_bengaluru,,pending,,"harvested 2026-08-31 (India, 0-3yr, last 30d)",No
